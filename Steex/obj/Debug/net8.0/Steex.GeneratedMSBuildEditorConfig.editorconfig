@@ -1,0 +1,667 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Steex
+build_property.RootNamespace = Steex
+build_property.ProjectDir = C:\Users\PC\Desktop\ThemesBrand\ASP.MVC\Steex_Asp_Mvc_v1.1.0\Asp\Admin\Steex\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PC\Desktop\ThemesBrand\ASP.MVC\Steex_Asp_Mvc_v1.1.0\Asp\Admin\Steex
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/highlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXGhpZ2hsaWdodC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/nestablelist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXG5lc3RhYmxlbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/ratings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXHJhdGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/scrollbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXHNjcm9sbGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/scrollspy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXHNjcm9sbHNweS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/sweetalerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXHN3ZWV0YWxlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/AdvanceUI/swiperSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXHN3aXBlclNsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/auth404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxhdXRoNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/auth500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxhdXRoNTAwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/auth503.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxhdXRoNTAzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/change.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxjaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/LockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2NrU2NyZWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/Offline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxPZmZsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/reset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxyZXNldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxzaWduaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxzaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/successmsg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxzdWNjZXNzbXNnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Auth/twostep.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFx0d29zdGVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Calendar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/area.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcYXJlYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/bar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/boxplot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcYm94cGxvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/bubble.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcYnViYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/candlestick.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcY2FuZGxlc3RpY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/column.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcY29sdW1uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/funnel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcZnVubmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/heatmap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcaGVhdG1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/line.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcbGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/mixed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcbWl4ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/pie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRccGllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/polar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRccG9sYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/radar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRccmFkYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/radialbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRccmFkaWFsYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/rangearea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRccmFuZ2VhcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/scatter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcc2NhdHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/slope.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcc2xvcGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcdGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chart/treemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcdHJlZW1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Dashboard/analytics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXGFuYWx5dGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Dashboard/crm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXGNybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Dashboard/learning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXGxlYXJuaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Dashboard/realestate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXHJlYWxlc3RhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceAddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUFkZFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUNhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceCheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUNoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZU9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceOrdersOverViews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZU9yZGVyc092ZXJWaWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVByb2R1Y3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceSellerOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVNlbGxlck92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Ecommerce/EcommerceSellers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVNlbGxlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Email/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/FileManager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZU1hbmFnZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/Advanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxBZHZhbmNlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/checkboxsradios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxjaGVja2JveHNyYWRpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/editors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxlZGl0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/elements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxlbGVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/fileuploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxmaWxldXBsb2Fkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxsYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/masks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxtYXNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxwaWNrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/rangesliders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxyYW5nZXNsaWRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxzZWxlY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVx2YWxpZGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Form/wizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVx3aXphcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Instructors/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Instructors/grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Instructors/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Instructors/overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcb3ZlcnZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Invoices/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Invoices/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Invoices/OverView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcT3ZlclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Layouts/layoutsDetached.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xsYXlvdXRzRGV0YWNoZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Layouts/layoutsHorizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xsYXlvdXRzSG9yaXpvbnRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Layouts/layoutsTwoColumn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xsYXlvdXRzVHdvQ29sdW1uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Layouts/layoutsVerticalHovered.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xsYXlvdXRzVmVydGljYWxIb3ZlcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Learning/category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdcY2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Learning/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Learning/grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdcZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Learning/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdcbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Learning/overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdcb3ZlcnZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Maps/MapGoogle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBHb29nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Maps/MapLeaflet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBMZWFmbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Maps/MapVector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBWZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQ29taW5nc29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQ29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Faqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRmFxcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/privacypolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJpdmFjeXBvbGljeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/profilesettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZmlsZXNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Starter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU3RhcnRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/termconditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdGVybWNvbmRpdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Pages/Timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AddProperties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZGRQcm9wZXJ0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AgenciesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZ2VuY2llc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AgenciesOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZ2VuY2llc092ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AgentGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZ2VudEdyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AgentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZ2VudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/AgentOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxBZ2VudE92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/Earnings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxFYXJuaW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxncmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/map.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxtYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/RealEstate/PropertyOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhbEVzdGF0ZVxQcm9wZXJ0eU92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/Layouts/_layout_detached.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9kZXRhY2hlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/Layouts/_layout_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/Layouts/_layout_twocolumn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF90d29jb2x1bW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/Layouts/_layout_vertical_hovered.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF92ZXJ0aWNhbF9ob3ZlcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_customizerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9jdXN0b21pemVyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_head_css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkX2Nzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_page_title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdlX3RpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_title_meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90aXRsZV9tZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90b3BiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Shared/_vendor_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF92ZW5kb3Jfc2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Student/courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxjb3Vyc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Student/subscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxzdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tables/TableBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlQmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tables/TableDatatable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlRGF0YXRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tables/TablesGridjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlc0dyaWRqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tables/TablesListjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlc0xpc3Rqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tickets/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Tickets/overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xvdmVydmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQWxlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQmFkZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Colors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ29sb3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Counter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ291bnRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcRHJvcGRvd25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Embedvideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcRW1iZWR2aWRlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/General.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcR2VuZXJhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcR3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/Images.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcSW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/links.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcbGlua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/lists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcbGlzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/media.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcbWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/modals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcbW9kYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcbm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcb2ZmY2FudmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/placeholders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlccGxhY2Vob2xkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlccHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/progress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlccHJvZ3Jlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/ribbons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlccmliYm9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcdGFicy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcdHlwb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/UI/utilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcdXRpbGl0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/Widgets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lkZ2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/ThemesBrand/ASP.MVC/Steex_Asp_Mvc_v1.1.0/Asp/Admin/Steex/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
